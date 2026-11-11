@@ -1,0 +1,4 @@
+# Ignorar todos os arquivos CSV e a pasta de dados
+*.csv
+data/
+datasets/
