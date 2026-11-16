@@ -16,6 +16,9 @@ Conforme especificação do projeto, serão implementados, tunados e comparados 
 3. **Random Forest** (Ensemble por Bagging de árvores de decisão)
 4. **XGBoost** (Gradient Boosting state-of-the-art para dados tabulares)
 
+## Explicabilidade:
+Conforme os ensinamentos da cadeira, é preciso fazer a explicabilidade dos modelos. Destacando a Importância das variáveis e valores SHAP (Feature Importance e Impacto Individual).
+
 ## 📁 Estrutura de Notebooks de EDA
 - `EDA_Clientes.ipynb`: Análise Exploratória e Diagnóstico do conjunto de dados cadastrais/aplicação (`credito_aplicacao_clientes_final.csv`).
 - `EDA_Pedidos.ipynb`: Análise Exploratória e Diagnóstico do conjunto comportamental de transações e pagamentos (`credito_comportamental_pedidos_final.csv`).
